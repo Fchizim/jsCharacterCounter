@@ -10,4 +10,4 @@ This is a character counter app, designed using html, css and javascript.
 
 ## Follow Me on
 
-1. Twitter - [@thevijaythapa](https://www.twitter.com/Fred_chizim "Fred on Twitter")
+1. Twitter - [@Fred_chizim](https://www.twitter.com/Fred_chizim "Fred on Twitter")
